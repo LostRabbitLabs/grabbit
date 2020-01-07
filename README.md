@@ -31,6 +31,8 @@ Sample 'targets.txt' file:
      192.168.0.100:80
      192.168.0.100:443
      192.168.0.1:10000
+     lost-rabbit.com:80
+     www.lost-rabbit.com:443
 
 # Output
 When completed will create two (2) output directories with the goods:
